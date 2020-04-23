@@ -1,0 +1,12 @@
+C:\Users\Eduard-laptop\source\repos\Week1\Week1\bin\Debug\netcoreapp3.0\Opdracht1.exe
+C:\Users\Eduard-laptop\source\repos\Week1\Week1\bin\Debug\netcoreapp3.0\Opdracht1.deps.json
+C:\Users\Eduard-laptop\source\repos\Week1\Week1\bin\Debug\netcoreapp3.0\Opdracht1.runtimeconfig.json
+C:\Users\Eduard-laptop\source\repos\Week1\Week1\bin\Debug\netcoreapp3.0\Opdracht1.runtimeconfig.dev.json
+C:\Users\Eduard-laptop\source\repos\Week1\Week1\bin\Debug\netcoreapp3.0\Opdracht1.dll
+C:\Users\Eduard-laptop\source\repos\Week1\Week1\bin\Debug\netcoreapp3.0\Opdracht1.pdb
+C:\Users\Eduard-laptop\source\repos\Week1\Week1\obj\Debug\netcoreapp3.0\Opdracht1.csproj.CoreCompileInputs.cache
+C:\Users\Eduard-laptop\source\repos\Week1\Week1\obj\Debug\netcoreapp3.0\Opdracht1.AssemblyInfoInputs.cache
+C:\Users\Eduard-laptop\source\repos\Week1\Week1\obj\Debug\netcoreapp3.0\Opdracht1.AssemblyInfo.cs
+C:\Users\Eduard-laptop\source\repos\Week1\Week1\obj\Debug\netcoreapp3.0\Opdracht1.dll
+C:\Users\Eduard-laptop\source\repos\Week1\Week1\obj\Debug\netcoreapp3.0\Opdracht1.pdb
+C:\Users\Eduard-laptop\source\repos\Week1\Week1\obj\Debug\netcoreapp3.0\Opdracht1.genruntimeconfig.cache
